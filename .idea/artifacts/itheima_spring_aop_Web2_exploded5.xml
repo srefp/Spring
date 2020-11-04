@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="itheima_spring_aop:Web2 exploded5">
+    <output-path>$PROJECT_DIR$/itheima_spring_aop/artifacts/itheima_spring_aop_Web2_exploded5</output-path>
+    <root id="root" />
+  </artifact>
+</component>
